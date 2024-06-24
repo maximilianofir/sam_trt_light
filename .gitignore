@@ -1,0 +1,7 @@
+downloads/
+engine/
+engine_light/
+onnx/
+onnx_light/
+*__pycache__*
+segment_anything.egg-info/
